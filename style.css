@@ -94,6 +94,7 @@ font-weight: 600;
 
 .year{
     margin-left: 120px;
+    font-weight: 700;
 }
 
 .haze{
@@ -132,11 +133,12 @@ font-weight: 600;
          
     }
     .left{
-        margin-left: 70px;
+        margin-left: 50px;
     }
     
 .right{
     display: none;
 }
-    
+  
+
 }
